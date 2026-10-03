@@ -1,0 +1,187 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/CAD_PROJECTS/allegro/SCORING_GAME.brd                                    |
+|                                                    Fri May 15 18:19:14 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C1.2                           
+                                 C2.2                           
+                                 IC2.1                          
+                                 IC2.9                          
+                                 IC2.10                         
+                                 IC2.15                         
+                                 J1.2                           
+                                 R3.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01195       pins ADDED TO this new net
+                                 IC2.14         R3.1           SW1.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01207       pins ADDED TO this new net
+                                 IC1.3          SW2.1          SW3.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01511       pins ADDED TO this new net
+                                 DS1.7          IC3.13         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01523       pins ADDED TO this new net
+                                 DS1.6          IC3.12         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01527       pins ADDED TO this new net
+                                 DS1.4          IC3.11         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01531       pins ADDED TO this new net
+                                 DS1.2          IC3.10         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01535       pins ADDED TO this new net
+                                 DS1.1          IC3.9          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01542       pins ADDED TO this new net
+                                 DS1.9          IC3.15         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01554       pins ADDED TO this new net
+                                 DS1.10         IC3.14         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02177       pins ADDED TO this new net
+                                 DS1.3          DS1.8          SW4.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02285       pins ADDED TO this new net
+                                 IC2.7          IC3.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02297       pins ADDED TO this new net
+                                 IC2.6          IC3.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/CAD_PROJECTS/allegro/SCORING_GAME.brd                                    |
+|                                                    Fri May 15 18:19:14 2026  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N02420       pins ADDED TO this new net
+                                 IC2.2          IC3.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02432       pins ADDED TO this new net
+                                 IC2.3          IC3.7          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02628       pins ADDED TO this new net
+                                 IC2.4          R5.2           SW3.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03215       pins ADDED TO this new net
+                                 IC2.5          R4.2           SW2.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03513       pins ADDED TO this new net
+                                 IC1.7          R1.1           R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03684       pins ADDED TO this new net
+                                 C2.1           IC1.2          IC1.6          
+                                 R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03737       pins ADDED TO this new net
+                                 C1.1           IC1.5          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this existing net (pins not previously on any net)
+                                 IC1.4                          
+                                 IC1.8                          
+                                 IC2.11                         
+                                 IC3.3                          
+                                 IC3.4                          
+                                 IC3.5                          
+                                 J1.1                           
+                                 R2.1                           
+                                 R4.1                           
+                                 R5.1                           
+                                 SW1.1                          
+                                 SW4.2                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/CAD_PROJECTS/allegro/SCORING_GAME.brd                                    |
+|                                                    Fri May 15 18:19:14 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 74LS192_9_DIP16_3_74LS192
+ 74LS247_8_DIP16_3_74LS247
+ CAP POL_CAP196_2.2UF
+ CAP_CAP300_0.01UF
+ CON2_JUMPER2_VCC
+ LTS-542_0_DIP10_3_LTS-542
+ NE555_7_DIP8_3_NE555
+ R_RES400_1K
+ R_RES400_10K_
+ R_RES400_100K
+ R_RES400_560
+ SW PUSHBUTTON_JUMPER2_SW PUSHBU
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/CAD_PROJECTS/allegro/SCORING_GAME.brd                                    |
+|                                                    Fri May 15 18:19:14 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP_CAP300_0.01UF     
+ C2                  CAP POL_CAP196_2.2UF  
+ DS1                 LTS-542_0_DIP10_3_LTS-542 
+ IC1                 NE555_7_DIP8_3_NE555  
+ IC2                 74LS192_9_DIP16_3_74LS192 
+ IC3                 74LS247_8_DIP16_3_74LS247 
+ J1                  CON2_JUMPER2_VCC      
+ R1                  R_RES400_100K         
+ R2                  R_RES400_10K_         
+ R3                  R_RES400_1K           
+ R4                  R_RES400_560          
+ R5                  R_RES400_560          
+ SW1                 SW PUSHBUTTON_JUMPER2_SW PUSHBU 
+ SW2                 SW PUSHBUTTON_JUMPER2_SW PUSHBU 
+ SW3                 SW PUSHBUTTON_JUMPER2_SW PUSHBU 
+ SW4                 SW PUSHBUTTON_JUMPER2_SW PUSHBU 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/CAD_PROJECTS/allegro/SCORING_GAME.brd                                    |
+|                                                    Fri May 15 18:19:14 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ DS1.9                          PRIM_FILE      .\pstchip.dat
+ IC1.8                          PRIM_FILE      .\pstchip.dat
+ IC2.7                          PRIM_FILE      .\pstchip.dat
+ IC3.5                          PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ SW1.2                          PRIM_FILE      .\pstchip.dat
+ SW2.2                          PRIM_FILE      .\pstchip.dat
+ SW3.2                          PRIM_FILE      .\pstchip.dat
+ SW4.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      66                                        |
+|       Comp definitions added:      12                                        |
+|       Components added      :      16                                        |
+|       Slot property added   :      16                                        |
+|                                                                              |
+|   Total ECO changes reported:     110                                        |
+|------------------------------------------------------------------------------|

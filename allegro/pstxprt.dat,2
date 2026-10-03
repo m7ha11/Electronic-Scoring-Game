@@ -1,0 +1,170 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001May-15-2026 at 18:27:47 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SCORING_GAME';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_CAP300_0.01UF':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS115@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins115@discrete.\cap.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins115@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP POL_CAP196_2.2UF':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS140@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins140@discrete.\cap pol.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins140@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS1 'LTS-542_0_DIP10_3_LTS-542':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS1367@SCORING_GAME.LTS-542_0.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins1367@scoring_game.\lts-542_0.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins1367@scoring_game.\lts-542_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC1 'NE555_7_DIP8_3_NE555':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS177@SCORING_GAME.NE555_7.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins177@scoring_game.\ne555_7.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins177@scoring_game.\ne555_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC2 '74LS192_9_DIP16_3_74LS192':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS250@SCORING_GAME.74LS192_9.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins250@scoring_game.\74ls192_9.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins250@scoring_game.\74ls192_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC3 '74LS247_8_DIP16_3_74LS247':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS335@SCORING_GAME.74LS247_8.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins335@scoring_game.\74ls247_8.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins335@scoring_game.\74ls247_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_JUMPER2_VCC':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS6487@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins6487@connector.\con2.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins6487@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES400_100K':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS26@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins26@discrete.\r.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins26@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES400_10K_':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS42@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins42@discrete.\r.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins42@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS58@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins58@discrete.\r.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins58@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES400_560':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS74@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins74@discrete.\r.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins74@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES400_560':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS90@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins90@discrete.\r.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins90@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON_JUMPER2_SW PUSHBU':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS400@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins400@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins400@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW PUSHBUTTON_JUMPER2_SW PUSHBU':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS416@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins416@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins416@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW PUSHBUTTON_JUMPER2_SW PUSHBU':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS432@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins432@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins432@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'SW PUSHBUTTON_JUMPER2_SW PUSHBU':;
+
+SECTION_NUMBER 1
+ '@SCORING_GAME.SCHEMATIC1(SCH_1):INS448@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@scoring_game.schematic1(sch_1):ins448@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@scoring_game.schematic1(sch_1):page_ins448@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

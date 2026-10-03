@@ -1,0 +1,279 @@
+\t (00:00:07) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Wed Jun 03 14:17:55 2026
+\t (00:00:07)         Host=M7_N User=mnica Pid=8796 CPUs=12
+\t (00:00:07) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Design opened: C:/Users/mnica/Desktop/allegro (2)/allegro/SCORING_GAME.brd
+\i (00:00:09) trapsize 417
+\i (00:00:09) trapsize 427
+\i (00:00:09) trapsize 427
+\i (00:00:09) etchedit 
+\i (00:04:41) color192 
+\i (00:04:41) etchedit 
+\i (00:04:42) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:04:45) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:04:56) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 16 0
+\i (00:04:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 16 0
+\i (00:04:56) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:04:58) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:05:35) color192 
+\i (00:05:35) etchedit 
+\i (00:05:36) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:05:38) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Non-Conductor
+\i (00:05:39) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Non-Conductor +
+\i (00:05:39) QtSignal Pin
+\i (00:05:41) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:05:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:05:41) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:42) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Non-Conductor +
+\i (00:05:42) QtSignal Via
+\i (00:05:43) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:05:43) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:05:43) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:45) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:05:51) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 16 0
+\i (00:05:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 16 0
+\i (00:05:51) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:53) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:05:55) zoom in 1 
+\i (00:05:55) setwindow pcb
+\i (00:05:55) zoom in -0.348 -0.038
+\i (00:05:55) trapsize 213
+\i (00:05:56) zoom in 1 
+\i (00:05:56) setwindow pcb
+\i (00:05:56) zoom in 0.974 -1.105
+\i (00:05:56) trapsize 107
+\i (00:05:57) zoom out 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom out 0.206 -0.144
+\i (00:05:57) trapsize 213
+\i (00:05:57) zoom out 1 
+\i (00:05:57) setwindow pcb
+\i (00:05:57) zoom out 0.205 -0.144
+\i (00:05:57) trapsize 427
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 2.937 2.927
+\t (00:05:59) Grids are drawn 1.270, 1.270 apart for enhanced viewability.
+\i (00:05:59) trapsize 853
+\i (00:06:00) zoom in 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom in 26.318 12.826
+\i (00:06:00) trapsize 427
+\i (00:06:00) zoom in 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom in 26.318 12.059
+\i (00:06:00) trapsize 213
+\i (00:06:00) zoom out 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom out 26.446 10.779
+\i (00:06:00) trapsize 427
+\i (00:06:02) zoom fit 
+\i (00:06:02) trapsize 427
+\i (00:06:22) artwork 
+\i (00:06:26) setwindow form.film_control
+\i (00:06:26) FORM film_control filmtree 'MULTISEL YES' SMT 
+\i (00:06:26) FORM film_control filmtree  SMT 
+\i (00:06:37) FORM film_control undefined_line_width 0.1 
+\i (00:06:37) FORM film_control ok  
+\i (00:06:37) setwindow pcb
+\i (00:06:37) etchedit 
+\i (00:06:40) artwork 
+\i (00:06:45) setwindow form.film_control
+\i (00:06:45) FORM film_control filmtree 'MULTISEL YES' SMT 
+\i (00:06:45) FORM film_control filmtree  SMT 
+\i (00:06:47) FORM film_control create  
+\t (00:06:47) Starting Create artwork films...
+\t (00:06:49) Plot generated.
+\i (00:06:50) FORM film_control cancel  
+\i (00:06:50) setwindow pcb
+\i (00:06:50) etchedit 
+\i (00:06:52) color192 
+\i (00:06:52) etchedit 
+\i (00:06:53) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:06:57) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Non-Conductor +
+\i (00:06:57) QtSignal Pin
+\i (00:06:59) QtSignal CVDColorTable CVDColorButton1:23 clicked
+\i (00:07:00) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 1 0
+\i (00:07:00) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:07:00) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:01) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Non-Conductor +
+\i (00:07:01) QtSignal Via
+\i (00:07:02) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 1 0
+\i (00:07:02) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:07:02) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:07:08) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 15 0
+\i (00:07:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:07:08) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:09) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:07:18) artwork 
+\i (00:07:20) setwindow form.film_control
+\i (00:07:20) FORM film_control filmtree  TOP 
+\i (00:07:21) FORM film_control filmtree popup 'Add Manual' TOP 
+\i (00:07:27) fillin "SMD"
+\i (00:07:28) setwindow form.scl_browser
+\i (00:07:28) FORM scl_browser cancel  
+\i (00:07:29) setwindow form.film_control
+\i (00:07:29) FORM film_control filmtree  SMD 
+\i (00:07:30) FORM film_control filmtree popup Cut SMD 
+\i (00:07:32) FORM film_control filmtree popup Add TOP 
+\i (00:07:34) fillin "SMD"
+\i (00:07:38) FORM film_control filmtree 'MULTISEL YES' SMD 
+\i (00:07:38) FORM film_control filmtree  SMD 
+\i (00:07:39) FORM film_control create  
+\w (00:07:39) No film records selected.
+\i (00:07:46) FORM film_control undefined_line_width 0.1 
+\i (00:07:46) FORM film_control create  
+\w (00:07:46) No film records selected.
+\i (00:07:47) FORM film_control create  
+\w (00:07:47) No film records selected.
+\i (00:07:48) FORM film_control database_check YES 
+\i (00:07:48) FORM film_control database_check NO 
+\i (00:07:49) FORM film_control filmtree 'MULTISEL NO' SMD 
+\i (00:07:52) FORM film_control cancel  
+\i (00:07:52) setwindow pcb
+\i (00:07:52) etchedit 
+\i (00:07:53) artwork 
+\i (00:07:57) setwindow form.film_control
+\i (00:07:57) FORM film_control cancel  
+\i (00:07:57) setwindow pcb
+\i (00:07:57) etchedit 
+\i (00:07:58) setwindow form.mini
+\i (00:07:58) FORM mini subclass BOTTOM 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) color192 
+\i (00:08:00) etchedit 
+\i (00:08:01) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:08:03) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:08:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Non-Conductor
+\i (00:08:09) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Non-Conductor +
+\i (00:08:09) QtSignal Pin
+\i (00:08:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:08:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:08:11) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:12) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Non-Conductor +
+\i (00:08:12) QtSignal Via
+\i (00:08:13) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:08:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:08:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:14) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:08:16) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:08:18) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 15 0
+\i (00:08:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:08:18) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:19) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:08:19) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:08:21) artwork 
+\i (00:08:22) setwindow form.film_control
+\i (00:08:22) FORM film_control filmtree  TOP 
+\i (00:08:23) FORM film_control filmtree popup Add TOP 
+\i (00:08:26) fillin "SMD"
+\i (00:08:30) FORM film_control undefined_line_width 0.1 
+\i (00:08:30) FORM film_control create  
+\w (00:08:30) No film records selected.
+\i (00:08:33) FORM film_control filmtree 'MULTISEL YES' SMD 
+\i (00:08:33) FORM film_control filmtree  SMD 
+\i (00:08:33) FORM film_control create  
+\t (00:08:33) Starting Create artwork films...
+\t (00:08:35) Plot generated.
+\i (00:08:36) FORM film_control cancel  
+\i (00:08:36) setwindow pcb
+\i (00:08:36) etchedit 
+\i (00:08:54) color192 
+\i (00:08:54) etchedit 
+\i (00:08:54) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:09:51) zoom fit 
+\i (00:09:51) trapsize 427
+\i (00:09:59) color192 
+\i (00:09:59) etchedit 
+\i (00:09:59) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:10:01) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:10:03) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:10:05) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 5 0
+\i (00:10:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:10:05) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:10:06) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:10:08) artwork 
+\i (00:10:09) setwindow form.film_control
+\i (00:10:09) FORM film_control filmtree  TOP 
+\i (00:10:10) FORM film_control filmtree popup Add TOP 
+\i (00:10:14) fillin "OUTLINE"
+\i (00:10:17) FORM film_control undefined_line_width 0.100 
+\i (00:10:17) FORM film_control filmtree 'MULTISEL YES' OUTLINE 
+\i (00:10:17) FORM film_control filmtree  OUTLINE 
+\i (00:10:18) FORM film_control create  
+\t (00:10:18) Starting Create artwork films...
+\t (00:10:19) Plot generated.
+\i (00:10:21) FORM film_control cancel  
+\i (00:10:21) setwindow pcb
+\i (00:10:21) etchedit 
+\i (00:10:23) save 
+\i (00:10:24) fillin yes 
+\i (00:10:24) etchedit 
+\i (00:10:27) color192 
+\i (00:10:28) etchedit 
+\i (00:10:29) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:10:30) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:10:32) pick grid -11.518 38.918
+\t (00:10:32) last pick:  -11.430 38.735
+\i (00:12:34) ncdrill param 
+\w (00:12:34) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
+\i (00:12:34) etchedit 
+\i (00:12:44) setwindow form.nc_parameters
+\i (00:12:44) FORM nc_parameters cancel  
+\i (00:12:45) setwindow pcb
+\i (00:12:45) nctape_full 
+\w (00:12:46) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
+\i (00:12:52) setwindow form.nc_drill
+\i (00:12:52) FORM nc_drill parameters  
+\i (00:13:06) setwindow form.nc_parameters
+\i (00:13:06) FORM nc_parameters integer_places 3 
+\i (00:13:21) setwindow form.nc_drill
+\i (00:13:21) FORM nc_drill by_layer_drilling YES 
+\i (00:13:22) FORM nc_drill layer_pair_drilling YES 
+\i (00:13:58) FORM nc_drill auto_tool_select YES 
+\i (00:13:59) FORM nc_drill repeat_codes NO 
+\i (00:14:00) FORM nc_drill repeat_codes YES 
+\i (00:14:16) setwindow form.nc_parameters
+\i (00:14:16) FORM nc_parameters done  
+\i (00:14:19) setwindow form.nc_drill
+\i (00:14:19) FORM nc_drill execute  
+\t (00:14:19) Starting Generating NC Drill...
+\i (00:14:22) FORM nc_drill cancel  
+\i (00:14:22) setwindow pcb
+\i (00:14:22) etchedit 
+\i (00:14:23) save 
+\i (00:14:24) fillin yes 
+\i (00:14:24) etchedit 
+\i (00:18:15) zoom in 1 
+\i (00:18:15) setwindow pcb
+\i (00:18:15) zoom in 27.824 13.231
+\i (00:18:15) trapsize 213
+\i (00:18:15) zoom in 1 
+\i (00:18:15) setwindow pcb
+\i (00:18:15) zoom in 27.824 13.231
+\i (00:18:15) trapsize 107
+\i (00:18:17) zoom out 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom out 29.254 15.450
+\i (00:18:17) trapsize 213
+\i (00:18:17) zoom out 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom out 29.254 15.023
+\i (00:18:17) trapsize 427
+\i (00:18:17) zoom out 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom out 28.999 13.744
+\i (00:18:17) trapsize 853
+\i (00:18:17) zoom out 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom out 27.291 6.746
+\t (00:18:17) Grids are drawn 2.540, 2.540 apart for enhanced viewability.
+\i (00:18:17) trapsize 1707
+\i (00:19:05) zoom fit 
+\i (00:19:05) trapsize 427
+\i (00:19:06) exit 
+\t (00:19:06)     Journal end - Wed Jun 03 14:36:53 2026

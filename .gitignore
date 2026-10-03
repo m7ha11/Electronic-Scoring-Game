@@ -1,5 +1,9 @@
-﻿*.bak
-*.kicad_prl
+﻿# OrCAD/Allegro temporary and backup files
+*.jrl
+*.log
+*.art
+*.drl
+*.rou
+*.tag
+*.sav
 *.lck
-*-backups/
-_autosave-*

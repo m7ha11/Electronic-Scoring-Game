@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : SCORING_GAME.brd                              )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Thu May 28 16:20:48 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 2
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (50.859 28.150)  Net: GND
+	Point on shape: (44.111 33.422)  Net: GND
